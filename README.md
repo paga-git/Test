@@ -35,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Project
+[![Build status](https://ci.appveyor.com/api/projects/status/aan7aal9h4nvugai?svg=true)](https://ci.appveyor.com/project/paga-git/test)
+
+Master
+[![Build status](https://ci.appveyor.com/api/projects/status/aan7aal9h4nvugai/branch/master?svg=true)](https://ci.appveyor.com/project/paga-git/test/branch/master)
